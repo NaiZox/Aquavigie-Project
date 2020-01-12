@@ -13,7 +13,7 @@ body
 
 /*HEADER 1*/
 
-header
+div
 {
-  background-color: #12111b;
+    color: #12111b;
 }
